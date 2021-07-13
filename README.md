@@ -1,0 +1,2 @@
+# Vote-Prediction-in-Election
+One of the leading news channel CNBE wants to analyze recent elections. This survey was conducted on 1525 voters with 9 variables. I am making 8 different models in order to compare their accuracy rates and their AUC. And then building a model with best accuracy rate, to predict which party a voter will vote for on the basis of the given information. Also I am doing the statistical inference EDA, Bivariate, Multivariate, and draw insights on the basis of analysis.
